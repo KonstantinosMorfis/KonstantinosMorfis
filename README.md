@@ -1,13 +1,26 @@
-- 👋 Hi, I’m @KonstantinosMorfis
-- 👀 I’m interested in working with you
-- 🌱 I’m currently learning to build websites
-- 💞️ I’m looking to collaborate on our project
-- 📫 How to reach me:
--                   Gmail: kostmorfis@gmail.com
--                   Linkedin: www.linkedin.com/in/kostmorfis
-- ⚡ Fun fact: I love travelling and volleyball!
+# Hi, I'm Konstantinos Morfis
 
-<!---
-KonstantinosMorfis/KonstantinosMorfis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Graduate Software Engineer with a BSc in Digital Systems from the University of Piraeus.
+
+- GPA: 8.16/10
+- Ranked among the top two graduates of my department
+- Interested in backend and full-stack software development
+- Based in Greece
+
+## Technical Skills
+
+**Languages & Backend:** JavaScript, Node.js, Express.js, Python  
+**Databases:** MongoDB, MySQL, SQL  
+**Web:** HTML, CSS, AngularJS, Jinja2  
+**Tools & Systems:** Git, GitHub, UNIX/Linux, Bash
+
+## Featured Projects
+
+- MEAN Full-Stack Web Application
+- Cinema Reservation System
+- University Database Management System
+- UNIX & Bash Scripting
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/kostmorfis
